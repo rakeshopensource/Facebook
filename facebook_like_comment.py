@@ -4,7 +4,7 @@ import requests
 import json
 
 
-#Author : Rakesh Rathi
+#Author : RakeshRathi
 
 def commentlikepost(post_limit):
 	''' Likes and comments post '''
